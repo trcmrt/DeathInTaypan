@@ -41,9 +41,3 @@ reagent-physical-desc-gellike = Pearkitty
 # marking-ResomiTail = Pearkitty
 # marking-ResomiTailFeathers = Pearkitty
 # marking-SnakeLargeTailAnimated = Pearkitty
-crime-assist-question-hadillictitem = Pearkitty
-sec-watch-title = pearkitty
-sec-watch-no-entries = pearkitty
-crime-assist-mainmenu = pearkitty
-crime-assist-question-isitterrorism = pearkitty
-
